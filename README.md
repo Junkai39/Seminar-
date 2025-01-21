@@ -26,9 +26,3 @@ This repository documents the materials and discussions from various seminars I 
 - **Material:** *Spectral Theory of Discrete One-Dimensional Ergodic Schrödinger Operators* by David Damanik  
 - **Highlights:**  
   - Ongoing discussions and updates on the theory of spectral operators.  
-
-## How to Contribute  
-Feel free to suggest edits, corrections, or additional resources via pull requests or by creating an issue.  
-
-## License  
-This repository is open for educational purposes.  
