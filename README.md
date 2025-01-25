@@ -22,7 +22,7 @@ This repository documents the materials and discussions from various seminars I 
   - Presented findings in a talk at the Nanjing University Undergraduate Forum.  
 
 ### 3. **Spectral Schrödinger Operator Seminar** (Spring 2025, Nankai University)  
-- **Instructor:** Prof. Jianggong You  
+- **Instructor:** Prof. Jiangong You  
 - **Material:** *Spectral Theory of Discrete One-Dimensional Ergodic Schrödinger Operators* by David Damanik  
 - **Highlights:**  
   - Ongoing discussions and updates on the theory of spectral operators.  
